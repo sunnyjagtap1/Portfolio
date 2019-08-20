@@ -1,0 +1,42 @@
+body {
+  background-color: #d6e4aa;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 50px;
+}
+p
+{
+font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.tinder
+{
+  position: relative;
+width: 100%;
+height: 100%;
+height: auto;
+
+}
+
+.tindog
+{
+background-color: beige;
+}
+
+.dicee
+{
+position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.dice
+{
+background-color: beige;
+}
+
+footer
+{
+  text-align: center;
+}
