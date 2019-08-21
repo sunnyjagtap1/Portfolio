@@ -1,0 +1,275 @@
+body {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+.top-box {
+  position: relative;
+  background-color: beige;
+  text-align: center;
+
+}
+
+.middle-box {
+  text-align: center;
+  position: relative;
+  background-color: white;
+}
+
+.bottom-box {
+  text-align: center;
+  position: relative;
+  background-color: beige;
+}
+
+.navbar
+{
+
+position: absolute !important;
+bottom: 90%;
+top: 0;
+left: 0;
+/* font-family: 'Rubik', sans-serif; */
+font-size: 1.5rem;
+
+}
+
+
+.para1
+{
+  text-align: center;
+  font-size: 25px;
+  color: #132743;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  
+}
+
+.skill1 {
+  width: 25%;
+  margin: auto;
+
+}
+
+.dota2 {
+  width: 25%;
+  margin: auto;
+
+}
+
+.head1 {
+  color: #132743;
+  padding-top: 310px;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 100px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.head2 {
+  color: #132743;
+  font-size: 70px;
+  padding-top: 50px;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+
+}
+
+.head3 {
+  text-align: center;
+  margin: auto;
+  font-size: 25px;
+}
+
+.h2 {
+  color: #132743;
+  font-size: 70px;
+  padding-top: 50px;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+
+}
+
+.h3 {
+  text-align: center;
+  margin: auto;
+  padding-top: 50px;
+  font-size: 25px;
+}
+
+.help
+{
+  font-size: 70px;
+  color: #132743;
+  padding-top: 50px;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+}
+
+p {
+
+  text-align: center;
+  color: teal;
+  margin: auto;
+  line-height: 2;
+  padding: 25px;
+  font-size: 25px;
+}
+
+.parabot {
+  padding-bottom: 25px;
+}
+
+.paraskill {
+  text-align: center;
+}
+
+span {
+  text-decoration: underline;
+}
+
+hr {
+  border: dotted #93b5b3 6px;
+  border-bottom: 0;
+  width: 3%;
+  margin: 100px auto;
+}
+
+
+.mainImage
+{
+  width: 40%;
+  height: 40%;
+}
+
+
+.about:hover {
+  color: #eaf6f6;
+}
+
+.about
+{
+
+
+  font-size: 30px;
+  color: #132743;
+  font-family: 'Raleway', sans-serif;
+}
+
+.work:hover {
+  color: #eaf6f6;
+}
+
+.work
+{
+
+
+  font-size: 30px;
+  color: #132743;
+  font-family: 'Raleway', sans-serif;
+}
+
+
+.note:hover
+{
+  color: #eaf6f6;
+}
+
+.note
+{
+
+  font-size: 30px;
+  color: #132743;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+.hire:hover
+ {
+  color: #eaf6f6;
+}
+
+.hire
+{
+
+
+  font-size: 30px;
+  color: #132743;
+  font-family: 'Raleway', sans-serif;
+}
+
+
+.contact-me {
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+
+
+.btn {
+
+
+  background: #d6e4aa;
+  background-image: -webkit-linear-gradient(top, #d6e4aa, #11999e);
+  background-image: -moz-linear-gradient(top, #d6e4aa, #11999e);
+  background-image: -ms-linear-gradient(top, #d6e4aa, #11999e);
+  background-image: -o-linear-gradient(top, #d6e4aa, #11999e);
+  background-image: linear-gradient(to bottom, #d6e4aa, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+
+}
+
+.btn:hover {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #11cdd4, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #11cdd4, #2bc4ad);
+  background-image: -o-linear-gradient(top, #11cdd4, #2bc4ad);
+  background-image: linear-gradient(to bottom, #11cdd4, #2bc4ad);
+  text-decoration: none;
+}
+
+a {
+  color: #11999e;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+
+.icon-pad {
+
+  left: 880px;
+  color: #132743;
+}
+
+.icon-color3:hover {
+  color: #1da1f2;
+}
+
+.icon-color4:hover {
+  color: #3b5999;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  color: #132743;
+  margin: auto;
+
+}
+.cpy
+{
+    text-decoration: underline;
+}
